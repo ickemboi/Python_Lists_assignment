@@ -15,3 +15,4 @@ my_list.sort() #to sort the list in ascending order
 # Find and print the index of the value 30 in my_list
 index_of_30 = my_list.index(30)
 print("Index of 30:", index_of_30)
+print(my_list) #prints the entire list
